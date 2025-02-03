@@ -32,7 +32,7 @@ pip install pygame
    In the terminal, navigate to the folder where the game file is located and run the following command:
 
    ```bash
-   python snake_game.py
+   python main.py
    ```
 
    The game will start automatically.
@@ -65,9 +65,7 @@ You can customize the game by modifying the following parameters in the code:
 - **Game speed**: Adjust the `game_speed` variable.
 - **Colors**: Change the colors of the snake, food, and background by modifying the RGB values in the `black`, `white`, `red`, and `green` variables.
 
-## Contributions
 
-Contributions are welcome! If you'd like to improve the game or add new features, feel free to fork this repository and submit a pull request.
 
 ## License
 
@@ -75,12 +73,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Have fun playing! 🎮
-```
 
-### How to Use:
-1. Create a file named `README.md` in the root of your repository.
-2. Copy and paste the content above into the file.
-3. Customize the information as needed (e.g., replace `your-username/repository-name` with your repository link).
 
-This will help others understand your project, how to run it, and how to contribute! 🚀
