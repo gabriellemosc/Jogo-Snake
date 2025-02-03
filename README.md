@@ -23,8 +23,8 @@ pip install pygame
 1. **Clone the repository** (if you haven't already):
 
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/gabriellemosc/Jogo-Snake
+   cd Snake_Game
    ```
 
 2. **Run the game**:
